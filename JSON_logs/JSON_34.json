@@ -1,0 +1,6 @@
+{
+    "is_theft": true,
+    "confidence": 0.8,
+    "danger_level": "high",
+    "reasoning": "A person is clearly holding a handgun, which represents a significant threat of violence and/or armed robbery. While the act of taking items is not explicitly shown, the presence of a firearm indicates a high danger level and the potential for armed theft."
+}

@@ -1,0 +1,6 @@
+{
+    "is_theft": true,
+    "confidence": 0.95,
+    "danger_level": "low",
+    "reasoning": "A person wearing a hoodie is seen in a store aisle, actively attempting to conceal a bottle under their clothing. This behavior is highly indicative of shoplifting or concealment, which falls under the 'low' danger_level category."
+}

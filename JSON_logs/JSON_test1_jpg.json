@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 1.0,
+    "danger_level": "low",
+    "reasoning": "The image shows a standard retail electronics store with customers browsing and an employee present. All individuals appear calm and engaged in typical shopping activities. There are no visual indicators of suspicious behavior, concealed items, weapons, violence, or any other signs of theft or distress. Therefore, no theft is detected. The 'danger_level' is classified as 'low' because there are no immediate threats or incidents of theft observed in the scene."
+}

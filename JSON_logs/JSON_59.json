@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 1.0,
+    "danger_level": "low",
+    "reasoning": "There are no visual indicators of theft in the image. The person is casually holding a small, non-threatening object, likely a toy or a pen, in what appears to be a domestic setting. There are no signs of struggle, shoplifting, weapons, or other elements typically associated with theft. The 'danger_level' is classified as 'low' because no high-danger elements (weapons, violence, multiple masked intruders) are visible, and no theft is detected."
+}

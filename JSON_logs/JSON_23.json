@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 0.9,
+    "danger_level": "low",
+    "reasoning": "The image shows a person holding an unidentified dark object in their hands. There are no clear indicators of theft such as shoplifting actions, weapons, forced entry, or signs of struggle. The context appears to be an indoor room, not a retail environment. Therefore, there is no evidence to suggest theft is occurring."
+}

@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 0.0,
+    "danger_level": "low",
+    "reasoning": "The image displays an empty room with a closed door and white walls. There are no individuals, valuable items being moved, signs of forced entry, or any other activity indicative of theft. Therefore, no theft is detected, and no immediate danger is apparent."
+}

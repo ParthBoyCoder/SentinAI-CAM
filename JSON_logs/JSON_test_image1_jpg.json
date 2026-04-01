@@ -1,0 +1,6 @@
+{
+    "is_theft": true,
+    "confidence": 0.95,
+    "danger_level": "low",
+    "reasoning": "An individual in a black hoodie and cap is actively placing a display laptop into a personal backpack within an electronics store. This action of concealing merchandise in a personal bag without visible intent to purchase strongly indicates theft (shoplifting). Another individual is standing nearby, observing, potentially acting as an accomplice or lookout. There is no evidence of weapons, violence, or multiple masked suspects involved in an armed robbery scenario, classifying the danger level as 'low' based on the specified criteria for suspicious behavior and concealment."
+}

@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 0.95,
+    "danger_level": "low",
+    "reasoning": "The image shows a person casually holding a mobile phone in an indoor environment. There are no signs of forced entry, struggle, concealment, or any other suspicious activity indicative of theft. The scene appears normal and non-threatening."
+}

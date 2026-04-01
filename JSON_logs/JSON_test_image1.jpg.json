@@ -1,0 +1,5 @@
+{
+    "is_theft": true,
+    "confidence": 0.95,
+    "reasoning": "The individual in the foreground is actively placing a MacBook laptop, which appears to be a display model from the store's counter, into their personal backpack. This action, performed in a retail environment without any visible indication of payment or authorization, strongly suggests an unauthorized removal of property. Display models are typically secured, and their direct placement into a personal bag is a common method of shoplifting."
+}

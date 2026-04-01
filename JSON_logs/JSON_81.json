@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 0.9,
+    "danger_level": "high",
+    "reasoning": "The image shows an individual holding a handgun and another object (possibly a magazine or phone). There is no contextual evidence (e.g., store setting, cash register, forced entry, struggle) to suggest that a theft is actively occurring. However, the explicit presence of a firearm indicates a high potential for violence, which aligns with the 'high' danger classification criteria."
+}

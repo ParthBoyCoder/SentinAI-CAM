@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 0.95,
+    "danger_level": "low",
+    "reasoning": "The image displays a person in what appears to be an indoor setting. There are no visual cues of any items being stolen, concealed, or any other activity indicative of theft. No weapons, violence, or multiple masked individuals are visible, hence no high danger is present."
+}

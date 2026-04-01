@@ -1,0 +1,6 @@
+{
+    "is_theft": false,
+    "confidence": 1.0,
+    "danger_level": "low",
+    "reasoning": "The image displays a person smiling and wearing headphones. There are no visual cues of theft, suspicious activity, concealed items, weapons, violence, or multiple intruders. Therefore, no theft is detected, and no high-danger elements are present in the scene."
+}
