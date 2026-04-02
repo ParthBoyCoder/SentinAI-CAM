@@ -103,10 +103,10 @@ Open `proto3.py` and update the following variables:
 ## 🎬 Media & Demos (Coming Soon)
 
 #### 📺 System Demo
-[Link to Demo Video] — *Space reserved for project demonstration*
+https://youtu.be/yS7uJyeNbx0
 
-#### 🛠️ Building the Project (Full Walkthrough)
-[Link to Full Tutorial Video] — *Space reserved for build-along guide*
+#### 🛠️ Building the Project
+https://youtu.be/8X4rKazPO60
 
 ---
 
