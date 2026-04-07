@@ -4,7 +4,14 @@ SentinAI-Cam is an autonomous, AI-driven security system that bridges the gap be
 
 ---
 
-## 🚀 System Architecture
+# Problem Statement
+
+A proactive AI security system that bridges the gap between passive monitoring and active defense using ESP32-CAM and Gemini 2.5.
+By analyzing real-time intent, it autonomously triggers a buzzer for shoplifting warnings or a relay pulse for high-danger robbery.
+
+---
+
+## System Architecture
 
 1. **Acquisition (ESP32-CAM):** Captures high-resolution frames and serves them over a local network.
 2. **Intelligence (Gemini 2.5 Flash):** Processes frames to identify intent (concealment, aggression, or masked entry).
@@ -100,7 +107,22 @@ Open `proto3.py` and update the following variables:
 
 ---
 
-## 🎬 Media & Demos (Coming Soon)
+### Challenges Faced
+
+- Occasionally, high-danger images (simulated robberies) triggered Gemini's internal safety filters. Refining the system prompt to clarify the "Security Research" context was necessary.
+- Sending multiple commands (Pulse + Buzz) too quickly sometimes caused the Arduino to skip steps. Implementing time.sleep() delays and ser.flush() solved the synchronization issues.
+
+---
+
+### Future Improvements
+
+- Currently, We are using a cloud model. Soon, we can switch to local quantized language models (maybe through ollama).
+- We can add a system that can account for multiple camera views to cover a larger area and to provide it better spatial awareness which will ultimately lead to fewer blind spots.
+- We can make a cloud dashboard so that stats can be seen from anywhere in the world.
+
+---
+
+## 🎬 Media & Demos
 
 #### 📺 System Demo
 https://youtu.be/yS7uJyeNbx0
