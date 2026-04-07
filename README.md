@@ -6,8 +6,8 @@ SentinAI-Cam is an autonomous, AI-driven security system that bridges the gap be
 
 # Problem Statement
 
-A proactive AI security system that bridges the gap between passive monitoring and active defense using ESP32-CAM and Gemini 2.5.
-By analyzing real-time intent, it autonomously triggers a buzzer for shoplifting warnings or a relay pulse for high-danger robbery.
+Traditional security cameras are passive: they record events but don’t actively prevent theft or detect threats in real time.  
+SentinAI-Cam addresses this by combining AI-driven behavior analysis with hardware deterrents, allowing a system to autonomously identify suspicious activity and respond instantly with warnings or defensive actions.
 
 ---
 
